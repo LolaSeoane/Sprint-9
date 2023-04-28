@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "email": "admin@admin.com",
+      "password": "$2a$10$b6TCqsjBzWFeWcF9DKJSCONNTX80ntqDOr54WrsqxHm3.EiPUWW7O",
+      "firstname": "admin",
+      "lastname": "admin",
+      "age": "1",
+      "id": 1
+    },
+    {
+      "email": "lola@gmail.com",
+      "password": "$2a$10$W11XbSNtOrMr/wRSItoWj.99BBhD1YGO2RhZyJlGPfAoxRDUuxOpK",
+      "firstname": "Lola",
+      "lastname": "Lola",
+      "age": "1",
+      "id": 2
+    },
+    {
+      "email": "sergi@gmail.com",
+      "password": "$2a$10$8IDBUrZ5R74AChDmCxh8e.RzeLpuiVXxC3d1SN1WWZ2rZu4Apq6Lm",
+      "firstname": "sergi",
+      "lastname": "sergi",
+      "age": "2",
+      "id": 3
+    }
+  ],
+  "menu":[
+    {
+      "per_comencar":[
+        {
+          "1":{
+            "name":"dhfgd",
+            "price":23
+          }
+        }
+      ]
+    }
+  ],
+  "dishes":[
+    {
+      "name": "Pa amb tomàquet",
+      "description": "Bread with tomato and olive oil, typically served as an accompaniment to any meal or as an appetizer.",
+      "image": "https://www.deliberry.com/wp-content/uploads/2017/06/pa-amb-tomaquet.jpg"
+    },
+    {
+      "name": "Escudella i carn d'olla",
+      "description": "Meat and vegetable stew, typically served on cold winter days.",
+      "image": "https://www.receptes.cat/img/escudella-i-carn-dolla.jpg"
+    },
+    {
+      "name": "Fricandó",
+      "description": "Beef stew with mushrooms and almond sauce.",
+      "image": "https://www.cuinart.net/wp-content/uploads/2016/04/Fricando.jpg"
+    },
+    {
+      "name": "Coca de recapte",
+      "description": "Bread dough with tomato, peppers, onion, and sardines, among other ingredients.",
+      "image": "https://www.receptes.cat/img/coca-de-recapte.jpg"
+    },
+    {
+      "name": "Crema catalana",
+      "description": "Typical dessert made with milk, egg yolks, sugar, and cinnamon, which is caramelized on the surface.",
+      "image": "https://www.postres.net/wp-content/uploads/2019/07/crema-catalana.jpg"
+    },
+    {
+      "name": "Panellets",
+      "description": "Almond sweets typical of the All Saints' Day holiday, covered with pine nuts, coconut, chocolate, etc.",
+      "image": "https://www.receptes.cat/img/panellets.jpg"
+    }
+  ]
+}
