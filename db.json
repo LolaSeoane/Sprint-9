@@ -25,48 +25,224 @@
       "id": 3
     }
   ],
-  "menu":[
-    {
-      "per_comencar":[
-        {
-          "1":{
-            "name":"dhfgd",
-            "price":23
+  
+  "menu": {
+    "per_comencar": [
+      {
+        "name": "Anxoves del Cantàbric 00 (4 unitats)",
+        "price": 10.50
+      },
+      {
+        "name": "Carpaccio de bacallà amb tomàquet confitat i olivada",
+        "price": 13.50
+      },
+      {
+        "name": "Formatges artesans Catalans",
+        "price": 12.00
+      },
+      {
+        "name": "Brandada de bacallà amb rúcula, tófona i parmesà",
+        "price": 10.50
+      },
+      {
+        "name": "Timbal d'escalivada amb formatge de cabra i vina greta de cansalada",
+        "price": 10.50
+      }
+    ],
+    "Els_fregits": [
+      {
+        "name": "Coquetes caçolanes de pollastre, formatge y cua de bou",
+        "price": "2.10/unitat"
+      },
+      {
+        "name": "Bunyols de bacallà(6 unitats)",
+        "price": "9.80"
+      },
+      {
+        "name": "Anelles de calamar a l'andalusa amb romesco",
+        "price": "11,90"
+      }
+    ],
+    "Amanides": [
+      {
+        "name": "Amanida Fonda Agut amb ventresca de tonyina",
+        "price": "10.50"
+      },
+      {
+        "name": "La Xatonada",
+        "price": "9.80"
+      },
+      {
+        "name": "Amanida de xips de carxofa amb formatge, pernil ivinagreta de fruits secs",
+        "price": "13,20"
+      }
+    ],
+    "Arrosos al forn de carbó": [
+      {
+        "name": "Paella marinera(min. 2 persones)",
+        "price": "19.00"
+      },
+      {
+        "name": "Arròs caldòs de llamàntol(min. 2 persones)",
+        "price": "24.50"
+      },
+      {
+        "name": "Fideuà de marisc(min. 2 persones)",
+        "price": "13,20"
+      }
+    ],
+    "Del_mar": [
+      {
+        "name": "Calamar de platja saltejat",
+        "price": "19.00"
+      },
+      {
+        "name": "Turbot a la brasa amb all i bitxo",
+        "price": "21.50"
+      },
+      {
+        "name": "Suquet de rap i gambes amb patata trencada",
+        "price": "22.10"
+      }
+    ],
+    "Carns": [
+      {
+        "name": "Peus de porc parcits de 2 botifarres",
+        "price": "16.20"
+      },
+      {
+        "name": "1/2 Espatlleta de xai rostida",
+        "price": "18.25"
+      },
+      {
+        "name": "Mini Txuletón amb oli de pinyons",
+        "price": "19.90"
+      }
+    ],
+    "Postres": [
+      {
+        "name": "Crema catalana",
+        "price": "4.40"
+      },
+      {
+        "name": "Pastisset de formatge",
+        "price": "5.50"
+      },
+      {
+        "name": "Postre de músic amb moscatell",
+        "price": "6.00"
+      }
+    ]
+  },
+  
+  
+    "menu1": [
+      {
+        "category": "Per començar",
+        "items": [
+          {
+            "name": "Anxoves del Cantàbric 00 (4 unitats)",
+            "price": 10.5
+          },
+          {
+            "name": "Carpaccio de bacallà amb tomàquet confitat i olivada",
+            "price": 13.5
           }
-        }
-      ]
-    }
-  ],
-  "dishes":[
+        ]
+      },
+      {
+        "category": "Amanides",
+        "items": [
+          {
+            "name": "Amanida de formatge de cabra amb vinagreta de mel",
+            "price": 9.0
+          },
+          {
+            "name": "Amanida de tomàquet amb tonyina i ceba",
+            "price": 8.5
+          }
+        ]
+      },
+      {
+        "category": "Arrossos",
+        "items": [
+          {
+            "name": "Arròs de muntanya",
+            "price": 16.0
+          },
+          {
+            "name": "Paella de marisc",
+            "price": 19.0
+          }
+        ]
+      },
+      {
+        "category": "Carns",
+        "items": [
+          {
+            "name": "Peus de porc parcits de 2 botifarres",
+            "price": "16.20"
+          },
+          {
+            "name": "1/2 Espatlleta de xai rostida",
+            "price": "18.25"
+          },
+          {
+            "name": "Mini Txuletón amb oli de pinyons",
+            "price": "19.90"
+          }
+        ]
+      },
+      {
+        "category": "Postres",
+        "items": [
+          {
+            "name": "Crema catalana",
+            "price": "4.40"
+          },
+          {
+            "name": "Pastisset de formatge",
+            "price": "5.50"
+          },
+          {
+            "name": "Postre de músic amb moscatell",
+            "price": "6.00"
+          }
+        ]
+      }
+    ],
+  
+  
+  "dishes": [
     {
-      "name": "Pa amb tomàquet",
-      "description": "Bread with tomato and olive oil, typically served as an accompaniment to any meal or as an appetizer.",
-      "image": "https://www.deliberry.com/wp-content/uploads/2017/06/pa-amb-tomaquet.jpg"
+      "name": "Bullabesa de peix de roca amb rap i gamba",
+      "description": "Tradicional sopa de peix i marisc amb un toc d'absenta.",
+      "image": ""
     },
     {
-      "name": "Escudella i carn d'olla",
-      "description": "Meat and vegetable stew, typically served on cold winter days.",
-      "image": "https://www.receptes.cat/img/escudella-i-carn-dolla.jpg"
+      "name": "Cap i pota amb bolets i cigrons",
+      "description": "Tradicional guisat amb morro de vedella, pota, bolets de temporada i cigrons.",
+      "image": ""
     },
     {
-      "name": "Fricandó",
-      "description": "Beef stew with mushrooms and almond sauce.",
-      "image": "https://www.cuinart.net/wp-content/uploads/2016/04/Fricando.jpg"
+      "name": "Cervellets a la romana",
+      "description": "Cervellets de xai arrebossats.",
+      "image": ""
     },
     {
       "name": "Coca de recapte",
-      "description": "Bread dough with tomato, peppers, onion, and sardines, among other ingredients.",
-      "image": "https://www.receptes.cat/img/coca-de-recapte.jpg"
+      "description": "Pa de coca molt finet amb ceba, pebrots, esberginia i tomàquet.",
+      "image": ""
     },
     {
-      "name": "Crema catalana",
-      "description": "Typical dessert made with milk, egg yolks, sugar, and cinnamon, which is caramelized on the surface.",
-      "image": "https://www.postres.net/wp-content/uploads/2019/07/crema-catalana.jpg"
+      "name": "Anques de granota saltejades amb all i julivert",
+      "description": "Petites potetes de granota saltejades amb allets i julivert.",
+      "image": ""
     },
     {
-      "name": "Panellets",
-      "description": "Almond sweets typical of the All Saints' Day holiday, covered with pine nuts, coconut, chocolate, etc.",
-      "image": "https://www.receptes.cat/img/panellets.jpg"
+      "name": "Lletons a la brasa amb mantega negra",
+      "description": "Lletons 'mollejas' de vedella a la brasa amb puré de patates i mantega d'olives.",
+      "image": ""
     }
   ]
 }

@@ -1,3 +1,4 @@
+import { AppRoutingModule } from './../app-routing.module';
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { CarouselComponent } from './carousel/carousel.component';
@@ -13,7 +14,8 @@ import { SectionBComponent } from './section-b/section-b.component';
     SectionBComponent
   ],
   imports: [
-    CommonModule
+    CommonModule,
+    AppRoutingModule,
   ],
   exports:[
     CarouselComponent,

@@ -36,7 +36,7 @@ export class LoginpageComponent {
         res => {
           let token:string | any= Object.values(res);
           localStorage.setItem('token', token[0]);
-       this.router.navigate(['/starships']);
+       this.router.navigate(['/dashboard']);
         },err=>console.log(err)
       )
        

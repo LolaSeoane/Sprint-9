@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+header,
+main,
+footer {
+  margin: 1rem;
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  margin: 0.5rem;
+}
+
+.g {
+  background-image: url('src/assets/img/Agut_logo_cobre.jpeg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+
+.glass {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(3.4px);
+  -webkit-backdrop-filter: blur(3.4px);
+  border: 1px solid rgba(255, 255, 255, 1);
+}

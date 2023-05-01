@@ -10,7 +10,7 @@ export class FoodService {
   constructor(private http: HttpClient) { }
 
   getMenu():Observable<object>{
-    return this.http.get<any>('http://localhost:3000/menu')
+    return this.http.get<any>('http://localhost:3000/menu1')
   }
   getDishes():Observable<object>{
     return this.http.get<any>('http://localhost:3000/dishes')

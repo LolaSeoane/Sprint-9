@@ -1,7 +1,11 @@
 /* Estilos para la barra de navegación */
 nav.navbar {
     background-color: #f9dfb2; /* color de fondo */
-    color: #FFFFFF; /* color de texto */
+    color: #FFFFFF;
+   
+  }
+  .nobg{
+    background-color: transparent!important;
   }
   
   /* Estilos para los botones de navegación */
@@ -59,4 +63,5 @@ nav.navbar {
     color: #FFFFFF; /* color de texto */
     margin-left: 10px; /* espacio entre los dos elementos */
   }
+ 
   
