@@ -25,7 +25,6 @@
       "id": 3
     }
   ],
-  
   "menu": {
     "per_comencar": [
       {
@@ -134,85 +133,135 @@
       }
     ]
   },
-  
-  
-    "menu1": [
-      {
-        "category": "Per començar",
-        "items": [
-          {
-            "name": "Anxoves del Cantàbric 00 (4 unitats)",
-            "price": 10.5
-          },
-          {
-            "name": "Carpaccio de bacallà amb tomàquet confitat i olivada",
-            "price": 13.5
-          }
-        ]
-      },
-      {
-        "category": "Amanides",
-        "items": [
-          {
-            "name": "Amanida de formatge de cabra amb vinagreta de mel",
-            "price": 9.0
-          },
-          {
-            "name": "Amanida de tomàquet amb tonyina i ceba",
-            "price": 8.5
-          }
-        ]
-      },
-      {
-        "category": "Arrossos",
-        "items": [
-          {
-            "name": "Arròs de muntanya",
-            "price": 16.0
-          },
-          {
-            "name": "Paella de marisc",
-            "price": 19.0
-          }
-        ]
-      },
-      {
-        "category": "Carns",
-        "items": [
-          {
-            "name": "Peus de porc parcits de 2 botifarres",
-            "price": "16.20"
-          },
-          {
-            "name": "1/2 Espatlleta de xai rostida",
-            "price": "18.25"
-          },
-          {
-            "name": "Mini Txuletón amb oli de pinyons",
-            "price": "19.90"
-          }
-        ]
-      },
-      {
-        "category": "Postres",
-        "items": [
-          {
-            "name": "Crema catalana",
-            "price": "4.40"
-          },
-          {
-            "name": "Pastisset de formatge",
-            "price": "5.50"
-          },
-          {
-            "name": "Postre de músic amb moscatell",
-            "price": "6.00"
-          }
-        ]
-      }
-    ],
-  
-  
+  "menu1": [
+    {
+      "category": "Per començar",
+      "items": [
+        {
+          "name": "Anxoves del Cantàbric 00 (4 unitats)",
+          "price": 10.5
+        },
+        {
+          "name": "Carpaccio de bacallà amb tomàquet confitat i olivada",
+          "price": 13.5
+        },
+        {
+          "name": "Formatges artesans Catalans",
+          "price": 12.00
+        },
+        {
+          "name": "Brandada de bacallà amb rúcula, tófona i parmesà",
+          "price": 10.50
+        },
+        {
+          "name": "Timbal d'escalivada amb formatge de cabra i vina greta de cansalada",
+          "price": 10.50
+        }
+      ]
+    },
+    {
+      "category": "Els fregits",
+      "items": [
+        {
+          "name": "Coquetes caçolanes de pollastre, formatge y cua de bou",
+          "price": "2.10/unitat"
+        },
+        {
+          "name": "Bunyols de bacallà(6 unitats)",
+          "price": "9.80"
+        },
+        {
+          "name": "Anelles de calamar a l'andalusa amb romesco",
+          "price": "11,90"
+        }
+      ]
+    },
+    {
+      "category": "Amanides",
+      "items": [
+        {
+          "name": "Amanida Fonda Agut amb ventresca de tonyina",
+          "price": "10.50"
+        },
+        {
+          "name": "La Xatonada",
+          "price": "9.80"
+        },
+        {
+          "name": "Amanida de xips de carxofa amb formatge, pernil ivinagreta de fruits secs",
+          "price": "13,20"
+        }
+      ]
+    },
+    {
+      "category": "Arrossos",
+      "items": [
+        {
+          "name": "Paella marinera(min. 2 persones)",
+          "price": "19.00"
+        },
+        {
+          "name": "Arròs caldòs de llamàntol(min. 2 persones)",
+          "price": "24.50"
+        },
+        {
+          "name": "Fideuà de marisc(min. 2 persones)",
+          "price": "13,20"
+        }
+      ]
+    },
+    {
+      "category": "Del Mar",
+      "items": [
+        {
+          "name": "Calamar de platja saltejat",
+          "price": "19.00"
+        },
+        {
+          "name": "Turbot a la brasa amb all i bitxo",
+          "price": "21.50"
+        },
+        {
+          "name": "Suquet de rap i gambes amb patata trencada",
+          "price": "22.10"
+        }
+      ]
+    },
+    {
+      "category": "Carns",
+      "items": [
+        {
+          "name": "Peus de porc parcits de 2 botifarres",
+          "price": "16.20"
+        },
+        {
+          "name": "1/2 Espatlleta de xai rostida",
+          "price": "18.25"
+        },
+        {
+          "name": "Mini Txuletón amb oli de pinyons",
+          "price": "19.90"
+        }
+      ]
+    },
+    {
+      "category": "Postres",
+      "items": [
+        {
+          "name": "Crema catalana",
+          "price": "4.40"
+        },
+        {
+          "name": "Pastisset de formatge",
+          "price": "5.50"
+        },
+        {
+          "name": "Postre de músic amb moscatell",
+          "price": "6.00"
+        }
+      ]
+    }
+  ],
   "dishes": [
     {
       "name": "Bullabesa de peix de roca amb rap i gamba",
