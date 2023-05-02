@@ -1,3 +1,4 @@
+import { TranslateModule } from '@ngx-translate/core';
 import { AppRoutingModule } from './../app-routing.module';
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
@@ -14,6 +15,7 @@ import { FooterComponent } from './footer/footer.component';
   imports: [
     CommonModule,
     AppRoutingModule,
+    TranslateModule
   ],
   exports:[
     HeaderComponent,

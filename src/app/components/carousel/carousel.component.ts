@@ -10,18 +10,18 @@ export class CarouselComponent {
   series:any[]=[
 
     {
-      name:'Comedor 1',
+      name:'Barra',
       img: './../assets/img/Carrusel/2.jpg',
       desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat'
     },
 
     { name:'Comedor 2',
-      img: './../assets/img/Carrusel/1.jpg',
+      img: './../assets/img/Carrusel/9.png',
       desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat'
     },
     {
-      name:'Comedor 3',
-      img: './../assets/img/Carrusel/3.jpg',
+      name:'Antiga Fonda',
+      img: './../assets/img/Carrusel/1.jpg',
       desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat'
 
     },

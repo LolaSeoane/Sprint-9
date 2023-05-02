@@ -1,3 +1,4 @@
+import { TranslateModule } from '@ngx-translate/core';
 import { AppRoutingModule } from './../app-routing.module';
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
@@ -16,6 +17,7 @@ import { SectionBComponent } from './section-b/section-b.component';
   imports: [
     CommonModule,
     AppRoutingModule,
+    TranslateModule,
   ],
   exports:[
     CarouselComponent,

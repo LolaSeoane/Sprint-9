@@ -1,3 +1,4 @@
+import { TranslateModule } from '@ngx-translate/core';
 import { AppRoutingModule } from './../app-routing.module';
 import { ComponentsModule } from './../components/components.module';
 import { NgModule } from '@angular/core';
@@ -28,6 +29,7 @@ import { ReactiveFormsModule } from '@angular/forms';
     CommonModule,
     ComponentsModule,
     AppRoutingModule,
+    TranslateModule,
     ReactiveFormsModule
   ]
 })

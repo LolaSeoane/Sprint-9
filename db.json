@@ -25,114 +25,7 @@
       "id": 3
     }
   ],
-  "menu": {
-    "per_comencar": [
-      {
-        "name": "Anxoves del Cantàbric 00 (4 unitats)",
-        "price": 10.50
-      },
-      {
-        "name": "Carpaccio de bacallà amb tomàquet confitat i olivada",
-        "price": 13.50
-      },
-      {
-        "name": "Formatges artesans Catalans",
-        "price": 12.00
-      },
-      {
-        "name": "Brandada de bacallà amb rúcula, tófona i parmesà",
-        "price": 10.50
-      },
-      {
-        "name": "Timbal d'escalivada amb formatge de cabra i vina greta de cansalada",
-        "price": 10.50
-      }
-    ],
-    "Els_fregits": [
-      {
-        "name": "Coquetes caçolanes de pollastre, formatge y cua de bou",
-        "price": "2.10/unitat"
-      },
-      {
-        "name": "Bunyols de bacallà(6 unitats)",
-        "price": "9.80"
-      },
-      {
-        "name": "Anelles de calamar a l'andalusa amb romesco",
-        "price": "11,90"
-      }
-    ],
-    "Amanides": [
-      {
-        "name": "Amanida Fonda Agut amb ventresca de tonyina",
-        "price": "10.50"
-      },
-      {
-        "name": "La Xatonada",
-        "price": "9.80"
-      },
-      {
-        "name": "Amanida de xips de carxofa amb formatge, pernil ivinagreta de fruits secs",
-        "price": "13,20"
-      }
-    ],
-    "Arrosos al forn de carbó": [
-      {
-        "name": "Paella marinera(min. 2 persones)",
-        "price": "19.00"
-      },
-      {
-        "name": "Arròs caldòs de llamàntol(min. 2 persones)",
-        "price": "24.50"
-      },
-      {
-        "name": "Fideuà de marisc(min. 2 persones)",
-        "price": "13,20"
-      }
-    ],
-    "Del_mar": [
-      {
-        "name": "Calamar de platja saltejat",
-        "price": "19.00"
-      },
-      {
-        "name": "Turbot a la brasa amb all i bitxo",
-        "price": "21.50"
-      },
-      {
-        "name": "Suquet de rap i gambes amb patata trencada",
-        "price": "22.10"
-      }
-    ],
-    "Carns": [
-      {
-        "name": "Peus de porc parcits de 2 botifarres",
-        "price": "16.20"
-      },
-      {
-        "name": "1/2 Espatlleta de xai rostida",
-        "price": "18.25"
-      },
-      {
-        "name": "Mini Txuletón amb oli de pinyons",
-        "price": "19.90"
-      }
-    ],
-    "Postres": [
-      {
-        "name": "Crema catalana",
-        "price": "4.40"
-      },
-      {
-        "name": "Pastisset de formatge",
-        "price": "5.50"
-      },
-      {
-        "name": "Postre de músic amb moscatell",
-        "price": "6.00"
-      }
-    ]
-  },
+ 
   "menu1": [
     {
       "category": "Per començar",
@@ -150,11 +43,11 @@
           "price": 12.00
         },
         {
-          "name": "Brandada de bacallà amb rúcula, tófona i parmesà",
+          "name": "Brandada de bacallà amb rúcula, tòfona i parmesà",
           "price": 10.50
         },
         {
-          "name": "Timbal d'escalivada amb formatge de cabra i vina greta de cansalada",
+          "name": "Timbal d'escalivada amb formatge de cabra i vinagreta de cansalada",
           "price": 10.50
         }
       ]
@@ -163,7 +56,7 @@
       "category": "Els fregits",
       "items": [
         {
-          "name": "Coquetes caçolanes de pollastre, formatge y cua de bou",
+          "name": "Coquetes caçolanes de pollastre, formatge i cua de bou",
           "price": "2.10/unitat"
         },
         {
@@ -188,7 +81,7 @@
           "price": "9.80"
         },
         {
-          "name": "Amanida de xips de carxofa amb formatge, pernil ivinagreta de fruits secs",
+          "name": "Amanida de xips de carxofa amb formatge, pernil i vinagreta de fruits secs",
           "price": "13,20"
         }
       ]
@@ -197,15 +90,15 @@
       "category": "Arrossos",
       "items": [
         {
-          "name": "Paella marinera(min. 2 persones)",
+          "name": "Paella marinera (min. 2 persones)",
           "price": "19.00"
         },
         {
-          "name": "Arròs caldòs de llamàntol(min. 2 persones)",
+          "name": "Arròs caldòs de llamàntol (min. 2 persones)",
           "price": "24.50"
         },
         {
-          "name": "Fideuà de marisc(min. 2 persones)",
+          "name": "Fideuà de marisc (min. 2 persones)",
           "price": "13,20"
         }
       ]

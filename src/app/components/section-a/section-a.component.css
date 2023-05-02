@@ -3,6 +3,16 @@ img {
     height: auto;
     
   }
+  .btn {
+    background-color: beige;
+    color: #8B6A47;
+    font-size: 1.2em;
+    padding: 10px 20px;
+    border: 2px solid beige;
+    border-radius: 8px;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.3);
+  }
+  
   
   @media (max-width: 767.98px) {
     .col-md-6 {

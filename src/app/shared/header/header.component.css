@@ -1,16 +1,21 @@
 /* Estilos para la barra de navegación */
 nav.navbar {
-    background-color: #f9dfb2; /* color de fondo */
+    background-color:#FAF7E7; /* color de fondo */
     color: #FFFFFF;
    
   }
   .nobg{
-    background-color: transparent!important;
+    
+    background-color: #452113!important;
   }
   
   /* Estilos para los botones de navegación */
   nav.navbar a.nav-link {
-    color: #FFFFFF; /* color de texto */
+    color:  #8B6A47; /* color de texto */
+  }
+  nav.navbar a.nav-link.active {
+    color:  #8B6A47;
+    border-bottom: 1px solid #8B6A47 /* color de texto */
   }
   
   nav.navbar a.nav-link:hover {
@@ -20,7 +25,7 @@ nav.navbar {
   /* Estilos para los botones de redes sociales */
   nav.navbar ul.navbar-nav li.nav-item a.nav-link i {
     font-size: 24px; /* tamaño del icono */
-    color: #FFFFFF; /* color del icono */
+    color: #8B6A47; /* color del icono */
     margin-left: 10px; /* espacio entre iconos */
   }
   
@@ -38,7 +43,7 @@ nav.navbar {
   }
   
   nav.navbar .navbar-collapse {
-    background-color: #f9dfb2; /* color de fondo del menú desplegable */
+    background-color:#FAF7E7; /* color de fondo del menú desplegable */
   }
   
   nav.navbar .navbar-nav {
@@ -52,7 +57,7 @@ nav.navbar {
   /* Estilos para la ubicación y teléfono */
   div.d-flex.ms-auto.justify-content-end {
     background-color: #f9dfb2; /* color de fondo */
-    color: #FFFFFF; /* color de texto */
+    color:#8B6A47; /* color de texto */
     display: flex; /* flexbox para centrar verticalmente */
     align-items: center; /* centrar verticalmente */
     justify-content: center; /* centrar horizontalmente */

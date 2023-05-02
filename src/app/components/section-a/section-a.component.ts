@@ -7,5 +7,5 @@ import { RouterModule } from '@angular/router';
   styleUrls: ['./section-a.component.css']
 })
 export class SectionAComponent {
-
+ 
 }
