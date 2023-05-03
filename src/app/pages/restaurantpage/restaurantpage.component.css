@@ -1,0 +1,36 @@
+.container {
+    background-image: url('../../../assets/img/Agut_abuelo.jpeg');
+    background-size: cover;
+    background-position: center center;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .card {
+    background-color: rgba(250, 247, 231, 0.6);
+    border-radius: 10px;
+    max-width: 80%;
+    min-height: 50%;
+    opacity: 0.9;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  .card-body {
+    padding: 10px;
+    text-align: justify;
+  }
+  
+  @media (max-width: 768px) {
+    .card {
+      max-width: 90%;
+      min-height: 70%;
+    }
+  
+    .card-body {
+      font-size: 0.9rem;
+      padding: 5px;
+    }
+  }
+  

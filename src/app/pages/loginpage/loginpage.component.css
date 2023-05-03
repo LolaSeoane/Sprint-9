@@ -1,13 +1,24 @@
 .card{
-    background-color:#8B6A47;
+    background-color:#89512ecd;
+    size: 100%;    
 }
 
 .bg {
-    min-height: 100vh; /* Establece la altura mínima de la página como 100% del alto de la pantalla */
+    background-image: url('/./../assets/img/login2.jpeg')!important;
+    background: cover; /* Establece la altura mínima de la página como 100% del alto de la pantalla */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed;
   }
 .btn{
     color: #FAF7E7;
 }  
 
+  
   
   
