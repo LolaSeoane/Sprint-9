@@ -98,7 +98,7 @@
           "price": "24.50"
         },
         {
-          "name": "Fideuà de marisc (min. 2 persones)",
+          "name": "Fideuà de marisc(min. 2 persones)",
           "price": "13,20"
         }
       ]
@@ -159,32 +159,32 @@
     {
       "name": "Bullabesa de peix de roca amb rap i gamba",
       "description": "Tradicional sopa de peix i marisc amb un toc d'absenta.",
-      "image": ""
+      "image": "./../assets/img/dishes/Bullabessa.jpg"
     },
     {
       "name": "Cap i pota amb bolets i cigrons",
       "description": "Tradicional guisat amb morro de vedella, pota, bolets de temporada i cigrons.",
-      "image": ""
+      "image": "./../assets/img/dishes/cap_i_pota.jpeg"
     },
     {
       "name": "Cervellets a la romana",
       "description": "Cervellets de xai arrebossats.",
-      "image": ""
+      "image": "./../assets/img/dishes/cervellets.jpeg"
     },
     {
       "name": "Coca de recapte",
       "description": "Pa de coca molt finet amb ceba, pebrots, esberginia i tomàquet.",
-      "image": ""
+      "image": "./../assets/img/dishes/coca-de-escalivada-con.jpg"
     },
     {
       "name": "Anques de granota saltejades amb all i julivert",
       "description": "Petites potetes de granota saltejades amb allets i julivert.",
-      "image": ""
+      "image": "./../assets/img/dishes/anques.jpg"
     },
     {
       "name": "Lletons a la brasa amb mantega negra",
       "description": "Lletons 'mollejas' de vedella a la brasa amb puré de patates i mantega d'olives.",
-      "image": ""
+      "image": "./../assets/img/dishes/lletons.jpeg"
     }
   ]
 }
