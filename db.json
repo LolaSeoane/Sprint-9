@@ -175,12 +175,7 @@
       "name": "Coca de recapte",
       "description": "Pa de coca molt finet amb ceba, pebrots, esberginia i tomàquet.",
       "image": "./../assets/img/dishes/coca-de-escalivada-con.jpg"
-    },
-    {
-      "name": "Anques de granota saltejades amb all i julivert",
-      "description": "Petites potetes de granota saltejades amb allets i julivert.",
-      "image": "./../assets/img/dishes/anques.jpeg"
-    },
+    },   
     {
       "name": "Lletons a la brasa amb mantega negra",
       "description": "Lletons 'mollejas' de vedella a la brasa amb puré de patates i mantega d'olives.",
